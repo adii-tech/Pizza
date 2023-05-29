@@ -37,7 +37,7 @@ li{
     margin: 20px;
 }
 .section{
-    background-image: url("../image/pizza.png");
+    background-image: url("./image/pizza.png");
     color: white;
     background-size: 100%;
     width: 100%;
